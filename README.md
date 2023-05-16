@@ -6,7 +6,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/), a fast and opini
 
 ## Demo
 
-![alt text](src/assets/demo-gif.mp4)
+![alt text](src/assets/alpha-mail-demo.gif)
 
 ## Available Scripts
 
