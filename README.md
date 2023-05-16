@@ -36,14 +36,14 @@ Your app is ready to be deployed!
 
 ## Learn More
 
-To learn more about Vite, check out the [Vite documentation](https://vitejs.dev/).
+* To learn more about Vite, check out the [Vite documentation](https://vitejs.dev/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions, please create an issue or submit a pull request.
+* Contributions are welcome! If you find any issues or have suggestions, please create an issue or submit a pull request.
 
 ## License
 
-[License Name] - [License Description]
+* [License Name] - [License Description]
