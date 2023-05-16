@@ -4,6 +4,10 @@
 
 This project was bootstrapped with [Vite](https://vitejs.dev/), a fast and opinionated build tool for modern web applications.
 
+## Demo
+
+![alt text](src/assets/demo-gif.mp4)
+
 ## Available Scripts
 
 In the project directory, you can run:
