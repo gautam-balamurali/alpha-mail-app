@@ -98,6 +98,14 @@ header {
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
 
+.error-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
 .mailbox-status {
   font-size: 1rem;
   font-weight: 600;
