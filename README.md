@@ -6,6 +6,8 @@ This project was bootstrapped with [Vite](https://vitejs.dev/), a fast and opini
 
 ## Demo
 
+* PS: GIF quality is poor due to large size.
+
 ![alt text](src/assets/alpha-mail-demo.gif)
 
 ## Available Scripts
