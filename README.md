@@ -4,6 +4,11 @@
 
 This project was bootstrapped with [Vite](https://vitejs.dev/), a fast and opinionated build tool for modern web applications.
 
+## Tech Stack
+
+* React
+* Vercel
+
 ## Demo
 
 * PS: GIF quality is poor due to large size.
