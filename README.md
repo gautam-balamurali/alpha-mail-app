@@ -24,6 +24,11 @@
     * useReducer()
     * Browser Router
 
+## Snapshots
+
+![image](https://github.com/gautam-balamurali/alpha-mail-app/assets/27736288/d3c2e86b-bd0c-49b6-a2d5-d3b4a480c593)
+![image](https://github.com/gautam-balamurali/alpha-mail-app/assets/27736288/1c29defe-1a94-4bbc-8205-c4495dbe46fe)
+
 ## Demo
 
 - PS: GIF quality is poor due to large size.
