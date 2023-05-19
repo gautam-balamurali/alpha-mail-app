@@ -4,11 +4,24 @@
 
 This project was bootstrapped with [Vite](https://vitejs.dev/), a fast and opinionated build tool for modern web applications.
 
+## Tech Stack
+
+* React
+* Vercel
+
 ## Demo
 
 * PS: GIF quality is poor due to large size.
 
 ![alt text](src/assets/alpha-mail-demo.gif)
+
+## Preview
+
+* [view live](https://alpha-mail-gautam-balamurali.vercel.app/)
+
+## License
+
+[View license](https://github.com/gautam-balamurali/alpha-mail-app/blob/master/LICENSE.md)
 
 ## Available Scripts
 
@@ -43,7 +56,3 @@ Your app is ready to be deployed!
 ## Contributing
 
 * Contributions are welcome! If you find any issues or have suggestions, please create an issue or submit a pull request.
-
-## License
-
-* [License Name] - [License Description]
