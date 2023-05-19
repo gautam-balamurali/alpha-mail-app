@@ -2,26 +2,45 @@
 
 - A simple mail app with basic functionalities.
 
-This project was bootstrapped with [Vite](https://vitejs.dev/), a fast and opinionated build tool for modern web applications.
-
 ## Tech Stack
 
-* React
-* Vercel
+- React
+- Vercel
+
+## Description
+
+* Consists of 3 pages Inbox, Spam and Trash.
+* Search and checkbox filters applied in each page.
+* Mail can marked as read and unread.
+* Mail can be starred and unstarred.
+* Mail can be moved from one folder to another folder(inbox to trash, etc.) and vice versa.
+* Toaster implemented.
+* Undo feature implemented when mail is moved from one folder to another folder.
+* Loader animation integrated.
+* Responsive in all screens.
+* Conscepts used:
+    * useState()
+    * useContext()
+    * useReducer()
+    * Browser Router
 
 ## Demo
 
-* PS: GIF quality is poor due to large size.
+- PS: GIF quality is poor due to large size.
 
 ![alt text](src/assets/alpha-mail-demo.gif)
 
 ## Preview
 
-* [view live](https://alpha-mail-gautam-balamurali.vercel.app/)
+[View live](https://alpha-mail-gautam-balamurali.vercel.app/)
 
 ## License
 
 [View license](https://github.com/gautam-balamurali/alpha-mail-app/blob/master/LICENSE.md)
+
+## Getting Started With Vite
+
+This project was bootstrapped with [Vite](https://vitejs.dev/), a fast and opinionated build tool for modern web applications.
 
 ## Available Scripts
 
@@ -49,10 +68,10 @@ Your app is ready to be deployed!
 
 ## Learn More
 
-* To learn more about Vite, check out the [Vite documentation](https://vitejs.dev/).
+- To learn more about Vite, check out the [Vite documentation](https://vitejs.dev/).
 
-* To learn React, check out the [React documentation](https://reactjs.org/).
+- To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Contributing
 
-* Contributions are welcome! If you find any issues or have suggestions, please create an issue or submit a pull request.
+- Contributions are welcome! If you find any issues or have suggestions, please create an issue or submit a pull request.
