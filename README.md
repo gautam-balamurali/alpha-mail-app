@@ -1,6 +1,6 @@
 # alpha-mail-app
 
-- A simple mail app with basic functionalities.
+- 📫AlphaMail📬 is a simple mail app with basic functionalities.
 
 ## Tech Stack
 
@@ -9,20 +9,20 @@
 
 ## Description
 
-* Consists of 3 pages Inbox, Spam and Trash.
-* Search and checkbox filters applied in each page.
-* Mail can marked as read and unread.
-* Mail can be starred and unstarred.
-* Mail can be moved from one folder to another folder(inbox to trash, etc.) and vice versa.
-* Toaster implemented.
-* Undo feature implemented when mail is moved from one folder to another folder.
-* Loader animation integrated.
-* Responsive in all screens.
-* Conscepts used:
-    * useState()
-    * useContext()
-    * useReducer()
-    * Browser Router
+- Consists of 3 pages Inbox, Spam and Trash.
+- Search and checkbox filters applied in each page.
+- Mail can marked as read and unread.
+- Mail can be starred and unstarred.
+- Mail can be moved from one folder to another folder(inbox to trash, etc.) and vice versa.
+- Toaster implemented.
+- Undo feature implemented when mail is moved from one folder to another folder.
+- Loader animation integrated.
+- Responsive in all screens.
+- Conscepts used:
+  - useState()
+  - useContext()
+  - useReducer()
+  - Browser Router
 
 ## Snapshots
 
