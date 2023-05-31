@@ -1,6 +1,9 @@
-# alpha-mail-app
+<h1 align='center'>
+  📫AlphaMail📬
+</h1>
 
 - 📫AlphaMail📬 is a simple mail app with basic functionalities.
+- [![DeepScan grade](https://deepscan.io/api/teams/21342/projects/24762/branches/765541/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&tid=21342&pid=24762&bid=765541)
 
 ## Tech Stack
 
