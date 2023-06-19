@@ -8,6 +8,7 @@
 ## Tech Stack
 
 - React for development
+- Vanilla CSS
 - Vercel for deployment
 
 ## Description
