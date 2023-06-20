@@ -7,8 +7,8 @@
 
 ## Tech Stack
 
-- React
-- Vercel
+- React for development
+- Vercel for deployment
 
 ## Description
 
