@@ -41,11 +41,11 @@
 
 ## Preview
 
-[View live](https://alpha-mail-gautam-balamurali.vercel.app/)
+[View Live](https://alpha-mail-gautam-balamurali.vercel.app/)
 
 ## License
 
-[View license](https://github.com/gautam-balamurali/alpha-mail-app/blob/master/LICENSE.md)
+[View License](https://github.com/gautam-balamurali/alpha-mail-app/blob/master/LICENSE.md)
 
 ## Getting Started With Vite
 
